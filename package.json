@@ -1,0 +1,14 @@
+{
+  "name": "bank",
+  "version": "1.0.0",
+  "description": "Notwest bank application, instructions below",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Mike Huggins",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
