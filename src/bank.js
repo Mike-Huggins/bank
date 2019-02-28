@@ -1,3 +1,7 @@
+// Good job, this seems to work well. A couple of recommendations:
+// 1 - use a linter as spacing is off in quite a few places 
+// 2 - it is good practice to remove any commented code before commit or merge to master
+
 const balance = 0
 
 function CurrentAccount(holder) {
