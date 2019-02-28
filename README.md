@@ -32,9 +32,3 @@ A customer should be able to:
 Filter their bank statement to see withdrawals or deposits only.
 
 
-#Code review:
-- Number of commits: We should aim to have more frequent commits - these should happen after a significant piece of work is done / tested.
-
-- README: Ideally the this should be a representation of the work and give simple instructions on how it should be used. For instance, while the description of the problem being resolved is welcome, `install Jest to run tests` is actually an incorrect instruction to someone that clones and runs this codes. 
-
-
