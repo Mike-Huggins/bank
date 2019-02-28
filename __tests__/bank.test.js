@@ -1,3 +1,10 @@
+// Nice work testing the Bank function, you can check if you hit the right number of tests by running jest with the --collect-coverage option on,
+// which in this case it shows 100% coverage
+
+// Something to take into account though: 3 out of 4 tests are skipped. We try not to commit and push skipped tests as this will induce 
+// a false sense of security and it's a situation that is difficult to rectify when working in a large codebase.
+
+
 const { CurrentAccount } = require ('../src/bank.js');
 
 describe('Bank account testing', () => {
