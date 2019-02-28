@@ -4,7 +4,7 @@
   "description": "Notwest bank application, instructions below",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --collect-coverage"
   },
   "author": "Mike Huggins",
   "license": "ISC",
